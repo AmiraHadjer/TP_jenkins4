@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.test.MatrixMathematicsTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2018-12-03T08:56:02" hostname="AMIRA" time="0.082">
+  <properties/>
+  <testcase name="testDeterminant1" classname="com.example.test.MatrixMathematicsTest" time="0.014"/>
+  <testcase name="testDeterminant2" classname="com.example.test.MatrixMathematicsTest" time="0.003"/>
+  <testcase name="testDeterminant3" classname="com.example.test.MatrixMathematicsTest" time="0.004"/>
+  <testcase name="testCofactor1" classname="com.example.test.MatrixMathematicsTest" time="0.016"/>
+  <testcase name="testCofactor2" classname="com.example.test.MatrixMathematicsTest" time="0.021"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
